@@ -31,3 +31,12 @@ Bot: Hi there!
 You: exit
 
 Bot: Exiting chatbot...
+## Screenshots
+
+### Chatbot Running
+
+![Chatbot Output](screenshots/screenshot18.png)
+
+### Additional Test
+
+![Chatbot Test](screenshots/screenshot19.png)
